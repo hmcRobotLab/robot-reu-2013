@@ -1,4 +1,0 @@
-/home/robotics/PCP/build/taxi.pcd
-/home/robotics/PCP/build/positions.txt
-/home/robotics/PCP/build/screenshots
-/home/robotics/PCP/build/positions/
