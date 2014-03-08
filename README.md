@@ -1,5 +1,5 @@
-robot-reu-2013
-==============
+Interdimensional Robot Cooperation
+==================================
 
 Drone navigation project at Harvey Mudd college (Summer 2013 - Spring 1014).
 
